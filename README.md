@@ -8,3 +8,6 @@ After importing the Weather data csv file into my notebook, I imported pandas an
 
 ## Q1. Find all records where the weather was exactly clear.
 The code to solve this is as below
+**df.Weather_Condition.value_counts()**
+All records where weather was exactly clear are 1326 as shown in the screenshot below
+![image](https://github.com/user-attachments/assets/7f596ad4-d4db-4169-a962-de79b6339332)
