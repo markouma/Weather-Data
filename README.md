@@ -33,3 +33,11 @@ The code to solve this is as follows
 See the screenshot below
 
 ![image](https://github.com/user-attachments/assets/fd25ac78-794d-44b2-818c-aa631fa45d89)
+
+## Q5. What is the mean visibility of the dataset?
+The code to solve this is as follows
+**df.Visibility_km.mean()**
+Mean visibility is **27.664446721311478**
+
+![image](https://github.com/user-attachments/assets/7daa521d-7939-4831-a437-a51679f0144c)
+
